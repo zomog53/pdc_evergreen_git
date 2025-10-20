@@ -108,3 +108,23 @@ This work is also sponsored in part by the U.S. Department of Defense.
 ### Original project site
 
 The [csinparallel.org](https://csinparallel.org/index.html) website is our original resource for PDC teaching materials, including a number of teaching modules for inserting a few days of instruction on a PDC topic to a given course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leo wuz here
